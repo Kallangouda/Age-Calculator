@@ -3,6 +3,7 @@
     padding:0;
     box-sizing:border-box;
     font-family:monospace;
+    color: darkorange;
 }
 
 .container{
@@ -14,7 +15,7 @@
     align-items:center;
     justify-content:center;
     flex-direction:column;
-    background-color:#6852ee;
+    background-color:#452de0;
     box-shadow:8px 8px black;
     color:white;
     padding:5% 0%;
@@ -24,6 +25,7 @@
     font-size:40px;
     margin:20px;
     font-weight:bold;
+    color: darkorange;
 }
 
 input{
