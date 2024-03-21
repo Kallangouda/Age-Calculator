@@ -8,10 +8,10 @@
 
 .container{
     display:flex;
-    width:599px;
+    width:600px;
     margin:auto;
-    margin-top:12%;
-    margin-bottom:12%;
+    margin-top:11%;
+    margin-bottom:11%;
     align-items:center;
     justify-content:center;
     flex-direction:column;
@@ -22,15 +22,15 @@
 }
 
 #currDate{
-    font-size:39px;
+    font-size:40px;
     margin:20px;
     font-weight:bold;
     color: darkorange;
 }
 
 input{
-    font-size:19px;
-    padding:14px;
+    font-size:20px;
+    padding:15px;
     margin:20px;
     text-align:center;
     border-radius:10px;
@@ -41,11 +41,11 @@ input{
 button{
     font-size:20px;
     padding:10px 20px;
-    border-radius:10px;
+    border-radius:11px;
     border:none;
     background-color:#00ffc3;
     color:black;
-    margin:20px;
+    margin:21px;
     text-transform: uppercase;
     font-weight:bold;
     cursor:pointer;
@@ -72,7 +72,7 @@ button:hover{
 
 #age{
     color:white;
-    font-size:50px;
-    margin:20px;
+    font-size:49px;
+    margin:19px;
     font-weight:bold;
 }
